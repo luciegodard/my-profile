@@ -1,0 +1,46 @@
+img{height: 250px}
+
+
+
+body{font-family: Courier}
+
+h1{color: pink}
+
+h1{letter-spacing: 9px}
+
+h2{color: #F08080}
+h2{letter-spacing: 9px}
+
+h3{color: red}
+
+.debut{
+	text-align: center;
+	background-image: url("images/fond.jpg");
+}
+
+
+.pip{
+	background-color: #E0FFFF;
+	text-align: center;
+}
+
+.pop{
+	text-align: center;
+	background-color: #DEB887
+}
+
+.pack{
+	text-align: center;
+	background-color: #F0FFF0	
+}
+
+.slide{
+	text-align: center;
+	background-color: #FAFAD2
+}
+
+.social{
+	background-image: url("images/reseaux.jpg");
+	image-size:cover ; 
+	padding: 60px; 
+}
